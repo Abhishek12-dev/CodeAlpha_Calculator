@@ -1,6 +1,9 @@
 # CodeAlpha_Calculator
 A simple, responsive web calculator built with **HTML**, **CSS**, and **JavaScript**. It performs basic arithmetic operations with a clean and modern interface, and runs entirely in the browser without any frameworks or libraries.
 
+## the layout design of calculator:
+![Screenshot]()
+
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, division, module
