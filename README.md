@@ -2,7 +2,7 @@
 A simple, responsive web calculator built with **HTML**, **CSS**, and **JavaScript**. It performs basic arithmetic operations with a clean and modern interface, and runs entirely in the browser without any frameworks or libraries.
 
 ## the layout design of calculator:
-![Screenshot]()
+![Screenshot 2026-10-09 124713](https://github.com/Abhishek12-dev/CodeAlpha_Calculator/blob/main/Screenshot%202026-10-09%20124713.png?raw=true)
 
 ## Features
 
